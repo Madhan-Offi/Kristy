@@ -9,7 +9,7 @@ from urllib.parse import urlparse, parse_qs
 TOKEN = environ.get('BOT_TOKEN')
 
 def start(update, context):
-    update.message.reply_text("Hello Friends! I Workes Only Kristy's Mirror Group")
+    update.message.reply_text("Hey bro, I'm A Bypasser Bot I'll Only Work For ᎡᴏᴄᴋʏХᏟʟᴏᴜᴅs")
     
 def help(update, context):
    update.message.reply_text("""
